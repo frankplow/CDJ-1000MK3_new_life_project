@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "CDJ-1000MK3_new_life_project")(type "KiCad")(uri "${KIPRJMOD}/CDJ-1000MK3_new_life_project.pretty")(options "")(descr ""))
+)
